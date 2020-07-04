@@ -1,0 +1,10 @@
+.Footer {
+  margin-top: 2rem;
+  padding: 1.5rem;
+  font-size: 1rem;
+  text-align: center;
+  background-color:#333;
+  opacity: 0.71;
+  color: rgb(209, 202, 202);
+  font-family: Georgia;
+}
